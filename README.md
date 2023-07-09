@@ -7,3 +7,6 @@
 
 ## Meetup Presentations
 
+## Future Events/Planning
+
+Build your own rocket! (July 18th 2022)
