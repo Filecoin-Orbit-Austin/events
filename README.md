@@ -10,3 +10,4 @@
 ## Future Events/Planning
 
 Build your own rocket! (July 18th 2022)
+Link to Parts List CSV: https://github.com/Filecoin-Orbit-Austin/events/blob/main/July18Planning.csv
